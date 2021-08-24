@@ -1,0 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+</style>
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+    color: black
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid 
+}
